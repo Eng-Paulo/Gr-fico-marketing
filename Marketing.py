@@ -15,7 +15,7 @@ class Campanha:
 campanhas = [
     Campanha("Facebook Ads", 2000, 15000, 15000),
     Campanha("Google Ads", 1200, 1000, 200),
-    Campanha("Email Ads", 1000, 5000, 50),
+    Campanha("Email Ads", 1500, 5000, 50),
     Campanha("Instagram Ads", 8000, 19000, 190),
 ]
 
