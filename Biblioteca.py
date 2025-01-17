@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 meses = ["jan", "fev", "mar", "abr", "mai"]
-valores = [60, 52, 76, 89, 205]
+valores = [100, 150, 250, 99, 205]
 
 plt.bar(meses, valores)
 plt.title("Abertos")
